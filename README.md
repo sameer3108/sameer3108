@@ -1,10 +1,11 @@
 ## Hi there 👋
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=This+is+Sameer+Mohamed" alt="Typing SVG" /></a>
+
 ### Employer?
 > [!IMPORTANT]  
 > <a href="[https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing](https://sameer3108.github.io/images/resume.pdf)" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 
 <!--
