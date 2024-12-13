@@ -4,7 +4,7 @@
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="[[https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing](https://sameer3108.github.io/images/resume.pdf)]" download>Download my resume</a>
+> <a href="https://sameer3108.github.io/images/resume.pdf" download>Download my resume</a>
 
 
 
