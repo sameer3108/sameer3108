@@ -50,8 +50,9 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-0078d7.svg?style=for-the-badge&logo=PyCharm&logoColor=white%5C)&nbsp;
 <br>
 
-
-
+### Portfolio 
+<a href="https://sameer3108.github.io/portfolio" target="_blank"> 
+<img src="https://img.shields.io/badge/Portfolio-%2320232a.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio Link"> </a>
 
 
 <!--
