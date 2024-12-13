@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### Employer?
+> [!IMPORTANT]  
+> <a href="[https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing](https://sameer3108.github.io/images/resume.pdf)" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
+
 <!--
 **sameer3108/sameer3108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
